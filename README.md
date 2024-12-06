@@ -1,2 +1,2 @@
 # git_h_5
-H5 - Git hack individual
+H5 - Enviar una rama remota.
